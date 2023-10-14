@@ -22,10 +22,10 @@ export const Skills = [
         img: cpp,
         description: "C++",
     },
-    {
-        img: python,
-        description: "Python",
-    },
+    // {
+    //     img: python,
+    //     description: "Python",
+    // },
     {
         img: js,
         description: "JavaScript",
@@ -54,14 +54,14 @@ export const Skills = [
         img: mongo,
         description: "MongoB",
     },
-    {
-        img: tailwind,
-        description: "Tailwind CSS",
-    },
-    {
-        img: materialUI,
-        description: "MUI",
-    },
+    // {
+    //     img: tailwind,
+    //     description: "Tailwind CSS",
+    // },
+    // {
+    //     img: materialUI,
+    //     description: "MUI",
+    // },
     {
         img: github,
         description: "Github",

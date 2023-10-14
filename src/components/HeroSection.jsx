@@ -37,7 +37,7 @@ const HeroSection = () => {
                     >
                         <h1 className="text-white mb-4 text-4xl sm:text-4xl md:text-5xl lg:text-6xl font-[700] lg:leading-normal">
                             Hi, I&apos;m{" "}
-                            <span className="text-heading">Aashish</span> a{" "}
+                            <span className="text-heading">Sunil</span> a{" "}
                             <span className="text-heading">passionate</span>{" "}
                             Software Developer.
                         </h1>
@@ -47,13 +47,13 @@ const HeroSection = () => {
                             sequence={[
                                 500,
                                 "I'm a MERN Stack Developer.",
-                                1000,
-                                "I build interactive UI using React.",
-                                1000,
-                                "I convert designs into Modern UI.",
-                                1000,
-                                "I make ideas & things alive.",
-                                500,
+                                // 1000,
+                                // "I build interactive UI using React."
+                                // // 1000,
+                                // // "I convert designs into Modern UI.",
+                                // 1000,
+                                // "I make ideas & things alive.",
+                                // 500,
                             ]}
                             speed={50}
                             // style={{ fontSize: "10px" }}
@@ -74,7 +74,7 @@ const HeroSection = () => {
                                 Hire Me
                             </ScrollLink>
                             <a
-                                href="https://drive.google.com/file/d/1nrwlQD-UelNBfR7pZI19BB7dKRS7Or5G/view"
+                                href="https://drive.google.com/file/d/1I4SPW2fPrBxPv_IU2etqktsqui0nh1gT/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-transparent border-white border-2 text-white text-center hover:bg-darkHover "

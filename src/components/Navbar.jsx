@@ -36,9 +36,9 @@ const Navbar = () => {
                     className="min-w-[150px] cursor-pointer font-[600] sm:font-[800] text-lg sm:text-xl tracking-wide"
                 >
                     {/* for mobile view */}
-                    <span className="sm:hidden">@Aashish</span>
+                    <span className="sm:hidden">@Sunil</span>
                     {/* for web view */}
-                    <span className="hidden sm:block">@Aashish_Dhiman</span>
+                    <span className="hidden sm:block">@Sunil_singh</span>
                 </ScrollLink>
 
                 {/* toggle navbar mobile view */}
@@ -71,20 +71,20 @@ const Navbar = () => {
                                 </span>
                                 <div className="flex gap-4 p-6 border-b-white border-b-2 text-[22px]">
                                     <a
-                                        href="https://www.linkedin.com/in/aashish-dhiman/"
+                                        href="https://www.linkedin.com/in/sunil-singh-rathore-4a1831202/"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
                                         <BsLinkedin />
                                     </a>
                                     <a
-                                        href="https://github.com/aashish-dhiman"
+                                        href="https://github.com/itsrathore15"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
                                         <BsGithub />
                                     </a>
-                                    <a href="mailto:aashishdhiman88@gmail.com">
+                                    <a href="mailto:sunilrathore1787@gmail.com">
                                         <HiMailOpen />
                                     </a>
                                 </div>
@@ -141,20 +141,20 @@ const Navbar = () => {
                 </div>
                 <div className="hidden md:flex items-center justify-between gap-4 text-[24px]">
                     <a
-                        href="https://www.linkedin.com/in/aashish-dhiman/"
+                        href="https://www.linkedin.com/in/sunil-singh-rathore-4a1831202/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <BsLinkedin />
                     </a>
                     <a
-                        href="https://github.com/aashish-dhiman"
+                        href="https://github.com/itsrathore15"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <BsGithub />
                     </a>
-                    <a href="mailto:aashishdhiman88@gmail.com">
+                    <a href="mailto:sunilrathore1787@gmail.com">
                         <HiMailOpen />
                     </a>
                     {/* <span className="text-[20px]">

@@ -67,8 +67,7 @@ const About = () => {
                         thrive on the internet.
                         <br />
                         I have experience working with C++, JavaScript, HTML,
-                        CSS, React.js, Node.js, Express.js, MongoDB, Tailwind
-                        CSS, and Git.
+                        CSS, React.js, Node.js, Express.js, MongoDB, and Git.
                         <br />I am a quick learner and I am always looking to
                         expand my knowledge and skill set.
                         {/* <br />I am not only a dedicated team player but also
@@ -121,16 +120,16 @@ const About = () => {
                                     transition={{ duration: 1 }}
                                 >
                                     <h5 className="text-2xl font-[600]">
-                                        Gautam Buddha University, Greater Noida
+                                        National Institute of Technology,Kurukshetra
                                     </h5>
                                     <div className="mt-2 flex gap-4 items-center">
                                         <div className="w-[15px] h-[2px] bg-textWhite "></div>
                                         <span>
                                             <p>
                                                 Bachelor of Technology in
-                                                Computer Science & Engineering
+                                                Electrical Engineering
                                             </p>
-                                            <span>2021-2025</span>
+                                            <span>2020-2024</span>
                                         </span>
                                     </div>
                                 </motion.li>

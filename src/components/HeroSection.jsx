@@ -37,7 +37,7 @@ const HeroSection = () => {
                     >
                         <h1 className="text-white mb-4 text-4xl sm:text-4xl md:text-5xl lg:text-6xl font-[700] lg:leading-normal">
                             Hi, I&apos;m{" "}
-                            <span className="text-heading">Sunil</span> a{" "}
+                            <span className="text-heading">Lalitha Lavanya</span> a{" "}
                             <span className="text-heading">passionate</span>{" "}
                             Software Developer.
                         </h1>
@@ -74,7 +74,7 @@ const HeroSection = () => {
                                 Hire Me
                             </ScrollLink>
                             <a
-                                href="https://drive.google.com/file/d/1I4SPW2fPrBxPv_IU2etqktsqui0nh1gT/view?usp=sharing"
+                                href="https://drive.google.com/file/d/1OeN6Abehz1Ef3QePcRIqL2gaWU09gbhE/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-transparent border-white border-2 text-white text-center hover:bg-darkHover "

@@ -80,7 +80,7 @@ const Contact = () => {
                     </p>
                     <div className="flex flex-row gap-5 mt-6">
                         <a
-                            href="https://github.com/itsrathore15"
+                            href="https://github.com/Lalithalavanya"
                             className="relative group"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -92,7 +92,7 @@ const Contact = () => {
                             </span>
                         </a>
                         <a
-                            href="https://www.linkedin.com/in/sunil-singh-rathore-4a1831202/"
+                            href="https://www.linkedin.com/in/atla-lalitha-lavanya-368a15202/"
                             className="relative group"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -103,7 +103,7 @@ const Contact = () => {
                             </span>
                         </a>
                         <a
-                            href="https://twitter.com/SunilRatho79334"
+                            href="https://twitter.com/LAVANYA46860122"
                             className="relative group"
                             target="_blank"
                             rel="noopener noreferrer"
@@ -239,7 +239,7 @@ const Contact = () => {
 
             <footer className="flex items-center p-6 text-center">
                 <span className="w-full text-textPara">
-                    All Rights Reserved © {new Date().getFullYear()} - Sunil Singh
+                    All Rights Reserved © {new Date().getFullYear()} - Lalitha Lavanya
                 </span>
             </footer>
         </section>

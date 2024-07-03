@@ -32,19 +32,19 @@ export const ProjectList = [
             "MongoDB",
             "Redux",
         ],
-        source: "https://github.com/itsrathore15/Quiz-Application",
+        source: "https://github.com/Lalithalavanya/Quiz_Application",
         // demo: "https://better-overcoat-fly.cyclic.cloud/",
     },
     {
         id: 3,
-        name: "Embedded Systems and Robotics Club Website",
+        name: "Movie Recommendation System",
         description:
-            "Developed a website for the Embedded Systems and Robotics Club (EmR) of NIT Kurukshetra, fa-cilitating effective communication and engagement within the club community.Website features event details, technical domains, and team information of the club",
+            "Created a website to demonstrate a recommendation system of streaming apps like Netflix using Python and other technologies such as Cosine similarity,Pandas,Scikit-learn,TMDB API,Content based filtering",
         img: emr,
         //max 6 tech stack
         tech: ["HTML", "CSS","JavaScript","React"],
-        source: "https://github.com/itsrathore15/EmrReactwebsite",
-        demo: "https://itsrathore15.github.io/EmrReactwebsite/",
+        source: "https://github.com/Lalithalavanya/Movie_Recommendation_system",
+       // demo: "https://itsrathore15.github.io/EmrReactwebsite/",
     },
     {
         id: 4,
@@ -54,8 +54,8 @@ export const ProjectList = [
         img: expense,
         //max 6 tech stack
         tech: ["HTML", "CSS","JavaScript","React","ContextAPI"],
-        source: "https://github.com/itsrathore15/Expense_Tracker",
-        demo: "https://itsrathore15.github.io/Expense-tracker/",
+        source: "https://github.com/Lalithalavanya/expense-tracker-react",
+       // demo: "https://itsrathore15.github.io/Expense-tracker/",
     }
     // {
     //     id: 5,
